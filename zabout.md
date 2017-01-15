@@ -2,6 +2,7 @@
 layout: page
 title: Sobre Mim
 permalink: /about/
+image: /images/eu.jpg
 ---
 
 Eu nasci em 1990 em Teresina, Piauí, no ápice da computação moderna (não em minha cidade mas no mundo). 
