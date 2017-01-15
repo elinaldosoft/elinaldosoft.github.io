@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Sobre Min
+title: Sobre Mim
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Eu nasci em 1990 em Teresina, Piauí, no ápice da computação moderna (não em minha cidade mas no mundo). 
+Aos 10 anos iniciei minha paixão pela computação, mas infelizmente eu só tinha acesso a um computador 2 vezes
+por mês no máximo. Com 17 anos terminei o ensino médio, não liguei para vestibular, não tinha planos para o futuro. 
+me matriculei no curso de lógica e algoritmos de programação no SENAC, minha mente se abriu para muita coisa 
+depois curso. 
