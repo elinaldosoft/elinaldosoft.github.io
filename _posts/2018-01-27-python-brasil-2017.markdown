@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Python Brasil 2017 - (BH)"
+date:   2018-01-25 22:24:00 -0300
+categories: python
+comments: true
+---
+
+Dizem que um homem tem que fazer 3 coisas antes de morrer, são elas:
+  - Plantar uma árvore
+  - Escrever um livro
+  - Ter um filho
+
+Mas o pythonista-br tem uma 4ª coisa para fazer antes de morrer, palestrar no Python Brasil! \o/. Segui logo abaixo o slide e vídeo de minha palestra sobre: Bots (automatizando tarefas) um funcionário que não reclama
+
+{% include slidesShare.html id="vDEvWi8D0HW20r" %}
+{% include youtubePlayer.html id="9gD7EEe-lbs" %}
+
