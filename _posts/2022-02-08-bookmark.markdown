@@ -7,7 +7,6 @@ comments: true
 ---
 
 ### My Bookmark of links
+- [How to add Search functionality to a Django REST Framework powered app](https://medium.com/swlh/searching-in-django-rest-framework-45aad62e7782){:target="_blank"}
 
 - [Creating a Custom User Model in Django](https://testdriven.io/blog/django-custom-user-model){:target="_blank"}
-
-- [How to add Search functionality to a Django REST Framework powered app](https://medium.com/swlh/searching-in-django-rest-framework-45aad62e7782l){:target="_blank"}
